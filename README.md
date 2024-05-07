@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/taplink.cc-blue?style=for-the-badge&logo=taplink.cc&logoColor=white" alt="taplink.cc Badge"/>
   </a>
   <a href="your-vkcom-URL">
-    <img src="https://img.shields.io/badge/vkcom-red?style=for-the-badge&logo=vkcom&logoColor=white" alt="vkcom Badge"/>
+    <img src="https://img.shields.io/badge/vkcom-red?style=for-the-badge&logo=vkcom&logoColor=white" alt="vk.com Badge"/>
   </a>
 </div>
 <!--
