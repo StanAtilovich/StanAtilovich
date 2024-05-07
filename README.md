@@ -32,6 +32,8 @@ I am an ANDROID KOTLIN Developer <img src="https://media.giphy.com/media/WUlplcM
 - :zap: МОИ ДИПЛОМЫ
 - [Сертификат Android разработчик](https://github.com/StanAtilovich/Stan/blob/master/certificate.pdf)
 - [Git-hub](https://github.com/StanAtilovich/Stan/blob/master/certificate.pdf)
+- [Kotlin](https://github.com/StanAtilovich/Stan/blob/master/Kotlin.pdf)
+- [Java](https://github.com/StanAtilovich/Stan/blob/master/Kotlin.pdf)
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-StanAtilovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/StanAtilovich)
 ---
