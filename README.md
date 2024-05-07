@@ -6,12 +6,6 @@
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-taplink.cc-URL">
-    <img src="https://img.shields.io/badge/taplink.cc-blue?style=for-the-badge&logo=taplink.cc&logoColor=white" alt="taplink.cc Badge"/>
-  </a>
-  <a href="your-vkcom-URL">
-    <img src="https://giphy.com/badge/vkcom-red?style=for-the-badge&logo=vkcom&logoColor=white" alt="vkcom Badge"/>
-  </a>
 </div>
 <!--
 **StanAtilovich/StanAtilovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
