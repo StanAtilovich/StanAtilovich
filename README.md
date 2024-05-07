@@ -9,8 +9,8 @@
   <a href="your-taplink.cc-URL">
     <img src="https://img.shields.io/badge/taplink.cc-blue?style=for-the-badge&logo=taplink.cc&logoColor=white" alt="taplink.cc Badge"/>
   </a>
-  <a href="your-vk.com-URL">
-    <img src="https://giphy.com/stickers/vkcom-vk-vkontakte-music-4fGNh8cEOdGWa2hA4z/badge/vk.com-red?style=for-the-badge&logo=vk.com&logoColor=white" alt="vk.com Badge"/>
+  <a href="your-vkcom-URL">
+    <img src="https://giphy.com/stickers/vkcom-vk-vkontakte-music-4fGNh8cEOdGWa2hA4z/badge/vkcom-red?style=for-the-badge&logo=vkcom&logoColor=white" alt="vkcom Badge"/>
   </a>
 </div>
 <!--
