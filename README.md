@@ -13,16 +13,14 @@
 </div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1 align="center">
- Всем Привет!
- 
- Вот что я умею
 
- Kotlin
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 I am an ANDROID KOTLIN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I'm looking for a job as an Android developer.
+- :seedling: Exploring Technical Content Writing.
 
+- :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-StanAtilovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/StanAtilovich)
 ---
