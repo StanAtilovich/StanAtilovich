@@ -26,7 +26,7 @@ I am an ANDROID KOTLIN Developer <img src="https://media.giphy.com/media/WUlplcM
 - [Диплом](https://github.com/StanAtilovich/NetWork)
 - [HARRY POTTER APP](https://github.com/StanAtilovich/6.5)
 - [Тестовое задание Junior Kotlin Developer](https://github.com/StanAtilovich/Game3)
-- 
+- [ShopingList](https://github.com/StanAtilovich/ShopingList)
 
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-StanAtilovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/StanAtilovich)
 ---
