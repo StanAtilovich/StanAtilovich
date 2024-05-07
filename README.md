@@ -6,8 +6,8 @@
   <a href="your-telegram-URL">
     <img src="https://img.shields.io/badge/telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="your-taplink.cc-URL">
+    <img src="https://img.shields.io/badge/taplink.cc-blue?style=for-the-badge&logo=taplink.cc&logoColor=white" alt="taplink.cc Badge"/>
   </a>
 </div>
 <!--
