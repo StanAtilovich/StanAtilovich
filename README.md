@@ -19,6 +19,7 @@
 I am an ANDROID KOTLIN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I'm looking for a job as an Android developer.
 
+
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-StanAtilovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/StanAtilovich)
 ---
 
