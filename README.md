@@ -29,6 +29,9 @@ I am an ANDROID KOTLIN Developer <img src="https://media.giphy.com/media/WUlplcM
 - [ShopingList](https://github.com/StanAtilovich/ShopingList)
 - [PhotoGallery](https://github.com/StanAtilovich/PhotoGallery)
 
+- МОИ ДИПЛОМЫ
+- 
+
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-StanAtilovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/StanAtilovich)
 ---
 
