@@ -15,7 +15,7 @@
 I am an ANDROID KOTLIN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I'm looking for a job as an Android developer.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-your-username-blue?style=flat&logo=Telegram&logoColor=white)](your-tg-url)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-https://t.me/StanAtilovich-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/StanAtilovich)
 <!--
 **StanAtilovich/StanAtilovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
