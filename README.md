@@ -18,7 +18,8 @@
 </h1>
 I am an ANDROID KOTLIN Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 - :telescope: I'm looking for a job as an Android developer.
-- :seedling: Exploring Technical Content Writing.
+- Вот что я умею:
+
 
 - :zap: In my free time, I solve problems on Leetcode and read tech articles.
 
