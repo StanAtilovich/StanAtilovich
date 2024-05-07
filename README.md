@@ -1,5 +1,5 @@
 ### ПРИВЕЕЕТ! 👋
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/stanatilovich/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="vk Badge"/>
 </a>
 
-</div>
+</div align="center">
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <h1>
   Всем Привет!
