@@ -3,8 +3,8 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="[https://img.shields.io/badge](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFkODN4OXI0Y2lpNGMwOTNpOXYyYTYyaWNxbHZrNGY3eXFkYXJuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ya4eevXU490Iw/giphy)/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="your-telegram-URL">
+    <img src="https://img.shields.io/badge/telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
