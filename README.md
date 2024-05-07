@@ -25,9 +25,11 @@ I am an ANDROID KOTLIN Developer <img src="https://media.giphy.com/media/WUlplcM
 ### :hammer_and_wrench: Languages and Tools :
 ![Kotlin for Android Badge](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Kotlin for Android Studio Badge](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=android-studio&logoColor=white)
-<!--
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=your-github-username&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 **StanAtilovich/StanAtilovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--
+
 
 Here are some ideas to get you started:
 
