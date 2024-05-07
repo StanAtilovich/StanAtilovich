@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
-    <img src="https://https://giphy.com/gifs/downloads-telegram-acquired-ya4eevXU490Iw"/>
+    <img src="[https://https://giphy.com/gifs/downloads-telegram-acquired-ya4eevXU490Iw](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFkODN4OXI0Y2lpNGMwOTNpOXYyYTYyaWNxbHZrNGY3eXFkYXJuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ya4eevXU490Iw/giphy.gif)"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
