@@ -25,7 +25,6 @@ I am an ANDROID KOTLIN Developer <img src="https://media.giphy.com/media/WUlplcM
 - KOTLIN:
 - [Диплом](https://github.com/StanAtilovich/NetWork)
 - [HARRY POTTER APP](https://github.com/StanAtilovich/6.5)
-- [Тестовое задание Junior Kotlin Developer](https://github.com/StanAtilovich/Game3)
 - [ShopingList](https://github.com/StanAtilovich/ShopingList)
 - [PhotoGallery](https://github.com/StanAtilovich/PhotoGallery)
 
